@@ -21,6 +21,7 @@ bash./ext_replacement.sh --file test.txt --file test2.sh --extension txt --repla
 
 #### Ожидаемый вывод:
 /home/user/test.sh
+
 /home/user/test2.sh
 
 
@@ -48,6 +49,7 @@ bash.
 
 #### Выход:
 mult: 24
+
 sum: 27
 
 ---
